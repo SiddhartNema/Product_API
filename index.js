@@ -12,5 +12,5 @@ app.use('/api',product_routes)
 
 
 app.listen(3000, function(){
-    console.log("server is ready");
+    console.log("server is connected");
 })
